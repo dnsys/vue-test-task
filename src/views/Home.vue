@@ -6,19 +6,19 @@
 					<h2 class="title">Преимущества Mystery Shopping Platform</h2>
 					<div class="row">
 						<div class="col-md-4">
-							<img src="http://d33wubrfki0l68.cloudfront.net/793a8dc3aa333fda16b7845bb298dc7358efa58b/72da4/img/take-more.png" alt="Earn">
+							<img src="/static/images/take-more.png" alt="Earn">
 							<h5>у нас Вы сможете зарабатывать больше</h5>
 							<p> Вы можете предлагать свои цены за задания.
 								Фиксированная комиссия за пользование платформой оплачивается заказчиками.</p>
 						</div>
 						<div class="col-md-4 ms-preference__wrapp">
-							<img src="http://d33wubrfki0l68.cloudfront.net/e8296bbfc7ad98c3a0ae83f550fb767de7d9eec2/a8dc6/img/rating.png" alt="Rating">
+							<img src="/static/images/rating.png" alt="Rating">
 							<h5>Каждому по рейтингу</h5>
 							<p>Накопительный рейтинг откроет вам путь к
 								VIP заданиям с повышенной оплатой.</p>
 						</div>
 						<div class="col-md-4 ms-preference__wrapp">
-							<img src="http://d33wubrfki0l68.cloudfront.net/d4e9790e081fa7ddd83abb6201299bd720555af1/aa5cb/img/payment.png" alt="Payment">
+							<img src="/static/images/payment.png" alt="Payment">
 							<h5>Моментальная оплата</h5>
 							<p>Мы гарантируем оплату вашей работы.<br>
 								Вы можете выбрать удобный способ вывода денег за выполненное задание.</p>
@@ -33,7 +33,7 @@
 					<div class="row">
 						<div class="col-md-3 col-md-offset-2 col-xs-12 ms-vacancys__wrapper">
 							<div class="ms-wrapp">
-								<img class="ms-images" src="http://d33wubrfki0l68.cloudfront.net/98c9016585f80b048964f0fffb6c22430661e62b/b17dd/img/car.png" alt="Bayer">
+								<img class="ms-images" src="/static/images/car.png" alt="Bayer">
 								<h5>для автовладельцев</h5>
 								<ul class="ms-vacancys__list nav">
 									<li class="ms-vacancys__item">
@@ -54,7 +54,7 @@
 								</ul>
 							</div>
 							<div class="ms-wrapp">
-								<img class="ms-images" src="http://d33wubrfki0l68.cloudfront.net/ea3441bdaf0ed0c1b67d9ec3d67e3afaa20e5017/4cc54/img/ep.png" alt="Bayer">
+								<img class="ms-images" src="/static/images/ep.png" alt="Bayer">
 								<h5>для ГУРМАНОВ</h5>
 								<ul class="ms-vacancys__list nav">
 
@@ -64,7 +64,7 @@
 								</ul>
 							</div>
 							<div class="ms-wrapp">
-								<img class="ms-images" src="http://d33wubrfki0l68.cloudfront.net/4ed90f1c9b1d3a36f06041e2283bdc0ffc874a09/9739f/img/girls.png" alt="Bayer">
+								<img class="ms-images" src="/static/images/Girls.png" alt="Bayer">
 								<h5>для девушек</h5>
 								<ul class="ms-vacancys__list nav">
 									<li class="ms-vacancys__item">
@@ -88,7 +88,7 @@
 						</div>
 						<div class="col-md-3 col-md-offset-3 col-xs-12 ms-vacancys__wrapper">
 							<div class="ms-wrapp">
-								<img class="ms-images" src="http://d33wubrfki0l68.cloudfront.net/2b2819a1ab74f0f59dda77af46cfdcc9f8f1e594/3afd7/img/entertaining.png" alt="Stady">
+								<img class="ms-images" src="/static/images/Entertaining.png" alt="Stady">
 								<h5>развлекательныЕ услуги</h5>
 								<ul class="ms-vacancys__list nav">
 									<li class="ms-vacancys__item">
@@ -118,7 +118,7 @@
 								</ul>
 							</div>
 							<div class="ms-wrapp">
-								<img class="ms-images" src="http://d33wubrfki0l68.cloudfront.net/54d125c26e01266c7f992febb73f3106434ecdeb/11eec/img/travel.png" alt="Telephone">
+								<img class="ms-images" src="/static/images/travel.png" alt="Telephone">
 								<h5>тур. оператор</h5>
 								<ul class="ms-vacancys__list nav">
 									<li class="ms-vacancys__item">
@@ -127,7 +127,7 @@
 								</ul>
 							</div>
 							<div class="ms-wrapp">
-								<img class="ms-images" src="http://d33wubrfki0l68.cloudfront.net/e40e95e009aed7d343b92705c687bd88e016ed56/10028/img/airline.png" alt="People">
+								<img class="ms-images" src="/static/images/airline.png" alt="People">
 								<h5>авиакомпания</h5>
 								<ul class="ms-vacancys__list nav">
 									<li class="ms-vacancys__item">
@@ -154,7 +154,7 @@
 								<div class="ms-simple__wrapp">
 									<div class="ms-simple__wrapp--sub">
 										<a href="/howto/registration/" class="ms-description"><span class="centered">Подробнее</span></a>
-										<img src="http://d33wubrfki0l68.cloudfront.net/b0e76a01d8bff28e91f95daf8f77be84ee154e52/5bd9f/img/register.png" alt="Register">
+										<img src="/static/images/register.png" alt="Register">
 									</div>
 									<h5>Регистрация<br> и заполнение профиля</h5>
 								</div>
@@ -165,7 +165,7 @@
 								<div class="ms-simple__wrapp">
 									<div class="ms-simple__wrapp--sub">
 										<a href="/howto/examination/" class="ms-description"><span class="centered">Подробнее</span></a>
-										<img src="http://d33wubrfki0l68.cloudfront.net/acb026b4b44a2e24e779a87a97520ed3ec37ae1e/ebd06/img/alphabet.png" alt="Alphabet">
+										<img src="/static/images/alphabet.png" alt="Alphabet">
 									</div>
 									<h5>Прохождение Азбуки<br> Тайного Покупателя</h5>
 								</div>
@@ -176,7 +176,7 @@
 								<div class="ms-simple__wrapp">
 									<div class="ms-simple__wrapp--sub">
 										<a href="/howto/vacancies/" class="ms-description"><span class="centered">Подробнее</span></a>
-										<img src="http://d33wubrfki0l68.cloudfront.net/5b901c3dc334abf68b25671a390d15aadbe39f6a/8ebe2/img/vacancy.png" alt="Vacancy">
+										<img src="/static/images/vacancy.png" alt="Vacancy">
 									</div>
 									<h5>Выбор вакансии<br> и Выполнение задания</h5>
 								</div>
@@ -187,7 +187,7 @@
 								<div class="ms-simple__wrapp">
 									<div class="ms-simple__wrapp--sub">
 										<a href="/howto/payments/" class="ms-description"><span class="centered">Подробнее</span></a>
-										<img src="http://d33wubrfki0l68.cloudfront.net/704eb5438f0f883201c01034bb20dc0d44436b12/b1111/img/many.png" alt="Many">
+										<img src="/static/images/many.png" alt="Many">
 									</div>
 									<h5>Вывод денег<br> с вашей учетной записи</h5>
 								</div>
@@ -203,7 +203,7 @@
 					<div class="row">
 						<div class="col-md-5 col-xs-12">
 							<div class="ms-mission__wrapp">
-								<img class="img-responsive" src="http://d33wubrfki0l68.cloudfront.net/a71dec345be7c8d7d923b74c9177a4053cce99ff/0a372/img/agents.png" alt="Agents">
+								<img class="img-responsive" src="/static/images/agents.png" alt="Agents">
 							</div>
 						</div>
 						<div class="col-md-7 col-xs-12 ms-simple__wrapper">
@@ -226,7 +226,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/8b6b0b4126a91ea182f87f81565c389bed693bbc/5c155/img/it-men.png" alt="It-men">
+											<img src="/static/images/it-men.png" alt="It-men">
 										</div>
 										<p>
 											Қосымша табыстың өте ыңғайлы және сенімді тәсілі. Басқа платформаларды қолданып көрдім, бұл ең жақсысы болып шықты.
@@ -244,7 +244,7 @@
 								<div class="col-xs-12 ms-post__wrapper">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/27037be6ca41a50fdda438e0395cf371e0244237/20a2d/img/g.jpg" alt="It-men">
+											<img src="/static/images/g.jpg" alt="It-men">
 										</div>
 										<p>«Познакомился недавно с этой компанией и могу сказать, что она без преувеличения<br> самая лучшая. Я за 6 лет работы
 											в этой сфере успел посотрудничать со многими. Здесь самая лучшая система, все действительно легко, интуитивно
@@ -262,7 +262,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/8b6b0b4126a91ea182f87f81565c389bed693bbc/5c155/img/it-men.png" alt="It-men">
+											<img src="/static/images/it-men.png" alt="It-men">
 										</div>
 										<p>Здравствуйте. Я работал, наверное, со всеми фирмами, которые через систему Тайных Покупателей, занимаются проверкой
 											и улучшением сервиса обслуживания. И с полной уверенностью могу сказать, что Ваша организация самая лучшая на
@@ -283,7 +283,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/8b6b0b4126a91ea182f87f81565c389bed693bbc/5c155/img/it-men.png" alt="It-men">
+											<img src="/static/images/it-men.png" alt="It-men">
 										</div>
 										<p>Добрый день, очень приятно было знакомство с платформой, всё предельно ясно и понятно. При этом очень оперативно
 											на всех этапах, даже оплата пришла очень быстро. Считаю, что вакансии с приличной оплатой бывают не очень часто,
@@ -299,7 +299,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/8b6b0b4126a91ea182f87f81565c389bed693bbc/5c155/img/it-men.png" alt="It-men">
+											<img src="/static/images/it-men.png" alt="It-men">
 										</div>
 										<p>Здравствуйте! Я когда зарегистрировалась, сначала не верила, что смогу подработать, и до последнего не верила,
 											пока не получила оплату на карту! Теперь этот сервис советую всем своим друзьям и знакомым!:) <span></span>
@@ -314,7 +314,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/b14c52b7278c39feafef173b8d11d9aa7724e0c1/ae1bb/img/xruch.jpg" alt="It-men">
+											<img src="/static/images/xruch.jpg" alt="It-men">
 										</div>
 										<p>Працювала вперше, було багато хвилювання, але з допомогою онлайн-підтримки сервісу - справилась. Рекомендую як
 											додатковий заробіток. Заявку на виплату коштів виконали протягом години. Буду рада співпраці і в майбутньому.
@@ -330,7 +330,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/8b6b0b4126a91ea182f87f81565c389bed693bbc/5c155/img/it-men.png" alt="It-men">
+											<img src="/static/images/it-men.png" alt="It-men">
 										</div>
 										<p>Очень понравилось выполнять проверки магазинов одежды и обуви премиум-класса!
 											Оплата за визиты поступила через 1 день. Хочу сотрудничать с вами и дальше:)
@@ -346,7 +346,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/0643cf99707a3018af9fb631cece1b12b001a87c/6c094/img/e.jpg" alt="It-men">
+											<img src="/static/images/e.jpg" alt="It-men">
 										</div>
 										<p>
 											Добрый день, сервис msp4.me!
@@ -364,7 +364,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/4c7148db0147dbb31fd6d7d5c7b1345a14a85f01/7c038/img/and.jpg" alt="It-men">
+											<img src="/static/images/and.jpg" alt="It-men">
 										</div>
 										<p>
 											Очень благодарна за предоставленную возможность сотрудничества.
@@ -382,7 +382,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/8b6b0b4126a91ea182f87f81565c389bed693bbc/5c155/img/it-men.png" alt="It-men">
+											<img src="/static/images/it-men.png" alt="It-men">
 										</div>
 										<p>Добрый день, сервис msp4.me!
 											Меня всё устраивает. Сервис замечательный.
@@ -400,7 +400,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/8b6b0b4126a91ea182f87f81565c389bed693bbc/5c155/img/it-men.png" alt="It-men">
+											<img src="/static/images/it-men.png" alt="It-men">
 										</div>
 										<p>
 											Дякую велике працівникам сервісу таємних покупців — msp4.me за своєчасну оплату!
@@ -416,7 +416,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/8b6b0b4126a91ea182f87f81565c389bed693bbc/5c155/img/it-men.png" alt="It-men">
+											<img src="/static/images/it-men.png" alt="It-men">
 										</div>
 										<p>Очень приятно сотрудничать с вами! Удобная платформа, моментальная оплата,
 											классные админы! Успехов вам!
@@ -432,7 +432,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/71a312a5927332187fe1adf070f327d2bfb59bcb/8c413/img/z.jpg" alt="It-men">
+											<img src="/static/images/z.jpg" alt="It-men">
 										</div>
 										<p>
 											Добрый день! Приятно работать с вашим сервисом, команда дает четкие инструкции, легенду и т.д.
@@ -449,7 +449,7 @@
 								<div class="col-xs-12">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/8b6b0b4126a91ea182f87f81565c389bed693bbc/5c155/img/it-men.png" alt="It-men">
+											<img src="/static/images/it-men.png" alt="It-men">
 										</div>
 										<p>
 											Қосымша табыстың өте ыңғайлы және сенімді тәсілі. Басқа платформаларды қолданып көрдім, бұл ең жақсысы болып шықты.
@@ -467,7 +467,7 @@
 								<div class="col-xs-12 ms-post__wrapper">
 									<div class="ms-post__wrapp">
 										<div class="ms-image">
-											<img src="http://d33wubrfki0l68.cloudfront.net/27037be6ca41a50fdda438e0395cf371e0244237/20a2d/img/g.jpg" alt="It-men">
+											<img src="/static/images/g.jpg" alt="It-men">
 										</div>
 										<p>«Познакомился недавно с этой компанией и могу сказать, что она без преувеличения<br> самая лучшая. Я за 6 лет работы
 											в этой сфере успел посотрудничать со многими. Здесь самая лучшая система, все действительно легко, интуитивно

@@ -115,25 +115,25 @@
 					<div class="modal-body text-center">
 						<ul class="list-inline">
 							<li>
-								<a href="http://shopper.msp4.me/auth/facebook" onclick="ga('send', 'event', 'button', 'click', 'registration');">
+								<a href="http://shopper.msp4.me/auth/facebook">
 									<img src="http://d33wubrfki0l68.cloudfront.net/af818fbc1568169e46b38027e03c14094c914713/f14e8/img/facebook.png" alt="Facebook">
 									<br>Facebook
 								</a>
 							</li>
 							<li>
-								<a class="ms-google" href="http://shopper.msp4.me/auth/google" onclick="ga('send', 'event', 'button', 'click', 'registration');">
+								<a class="ms-google" href="http://shopper.msp4.me/auth/google">
 									<img src="http://d33wubrfki0l68.cloudfront.net/baeb7e8ccfda30b9fdf4e624abf2ba0bbe85db7b/6c980/img/google.png" alt="Google" @click.prevent="onSigninGoogle">
 									<br>Google
 								</a>
 							</li>
 							<li class="hidden_li">
-								<a href="http://shopper.msp4.me/auth/mailru" onclick="ga('send', 'event', 'button', 'click', 'registration');">
+								<a href="http://shopper.msp4.me/auth/mailru">
 									<img src="http://d33wubrfki0l68.cloudfront.net/dc0bad114242db3421e0a9d04fbc25d84e0f2c41/7df66/img/mailru.png" alt="Mailru">
 									<br>Mail.ru
 								</a>
 							</li>
 							<li class="hidden_li">
-								<a class="ms-yandex" href="http://shopper.msp4.me/auth/yandex" onclick="ga('send', 'event', 'button', 'click', 'registration');">
+								<a class="ms-yandex" href="http://shopper.msp4.me/auth/yandex">
 									<img src="http://d33wubrfki0l68.cloudfront.net/16b3086b3bf93ea9a5c7f0c9267aeb95199457a3/bf50b/img/yandex.png" alt="Yandex">
 									<br>Yandex
 								</a>
